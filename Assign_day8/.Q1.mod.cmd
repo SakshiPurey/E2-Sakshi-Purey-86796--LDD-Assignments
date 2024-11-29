@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/Desktop/ldd_practice/day08/Assign_day8/Q1.mod := printf '%s\n'   Q1.o | awk '!x[$$0]++ { print("/home/sakshi/Desktop/ldd_practice/day08/Assign_day8/"$$0) }' > /home/sakshi/Desktop/ldd_practice/day08/Assign_day8/Q1.mod

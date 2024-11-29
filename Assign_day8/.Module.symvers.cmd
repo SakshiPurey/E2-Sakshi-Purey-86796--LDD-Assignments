@@ -1,0 +1,1 @@
+savedcmd_/home/sakshi/Desktop/ldd_practice/day08/Assign_day8/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sakshi/Desktop/ldd_practice/day08/Assign_day8/Module.symvers -T /home/sakshi/Desktop/ldd_practice/day08/Assign_day8/modules.order -i Module.symvers -e 
